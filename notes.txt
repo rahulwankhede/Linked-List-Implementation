@@ -1,0 +1,2 @@
+Changing indirect pointer to direct in push() gives me a segmentation fault(why?)
+
