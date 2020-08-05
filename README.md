@@ -1,2 +1,1 @@
-# python_practice
-Implementations of a linked list in python
+Implementations of a linked list and helper methods in Python and C
